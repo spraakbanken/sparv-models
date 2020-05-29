@@ -1,0 +1,1334 @@
+<RogetHierarchy>
+  <class number="1" name="Words Expressing Abstract Relations">
+    <section number="1" name="Existence">
+      <subsection number="1" name="Being, in the Abstract">
+        <headword number="1" name="Existence"/>
+        <headword number="2" name="Inexistence"/>
+      </subsection>
+      <subsection number="2" name="Being, in the Concrete">
+        <headword number="3" name="Substantiality"/>
+        <headword number="4" name="Unsubstantiality"/>
+      </subsection>
+      <subsection number="3" name="Formal Existence">
+        <headword number="5" name="Intrinsicality"/>
+        <headword number="6" name="Extrinsicality"/>
+      </subsection>
+      <subsection number="4" name="Modal Existence">
+        <headword number="7" name="State"/>
+        <headword number="8" name="Circumstance"/>
+      </subsection>
+    </section>
+    <section number="2" name="Relation">
+      <subsection number="1" name="Absolute Relation">
+        <headword number="9" name="Relation"/>
+        <headword number="10" name="Irrelation"/>
+        <headword number="11" name="Consanguinity"/>
+        <headword number="12" name="Correlation"/>
+        <headword number="13" name="Identity"/>
+        <headword number="14" name="Contrariety"/>
+        <headword number="15" name="Difference"/>
+      </subsection>
+      <subsection number="2" name="Continuous Relation">
+        <headword number="16" name="Uniformity"/>
+        <headword number="16a" name="Nonuniformity"/>
+      </subsection>
+      <subsection number="3" name="Partial Relation">
+        <headword number="17" name="Similarity"/>
+        <headword number="18" name="Dissimilarity"/>
+        <headword number="19" name="Imitation"/>
+        <headword number="20" name="Nonimitation"/>
+        <headword number="20a" name="Variation"/>
+        <headword number="21" name="Copy"/>
+        <headword number="22" name="Prototype"/>
+      </subsection>
+      <subsection number="4" name="General Relation">
+        <headword number="23" name="Agreement"/>
+        <headword number="24" name="Disagreement"/>
+      </subsection>
+    </section>
+    <section number="3" name="Quantity">
+      <subsection number="1" name="Simple Quantity">
+        <headword number="25" name="Quantity"/>
+        <headword number="26" name="Degree"/>
+      </subsection>
+      <subsection number="2" name="Comparative Quantity">
+        <headword number="27" name="Equality"/>
+        <headword number="28" name="Inequality"/>
+        <headword number="29" name="Mean"/>
+        <headword number="30" name="Compensation"/>
+        <headword number="31" name="Greatness"/>
+        <headword number="32" name="Smallness"/>
+        <headword number="33" name="Superiority"/>
+        <headword number="34" name="Inferiority"/>
+        <headword number="35" name="Increase"/>
+        <headword number="36" name="Nonincrease,  Decrease"/>
+      </subsection>
+      <subsection number="3" name="Conjunctive Quantity">
+        <headword number="37" name="Addition"/>
+        <headword number="38" name="Nonaddition"/>
+        <headword number="39" name="Adjunct"/>
+        <headword number="40" name="Remainder"/>
+        <headword number="40a" name="Decrement"/>
+        <headword number="41" name="Mixture"/>
+        <headword number="42" name="Simpleness"/>
+        <headword number="43" name="Junction"/>
+        <headword number="44" name="Disjunction"/>
+        <headword number="45" name="Connection"/>
+        <headword number="46" name="Coherence"/>
+        <headword number="47" name="Incoherence"/>
+        <headword number="48" name="Combination"/>
+        <headword number="49" name="Decomposition"/>
+      </subsection>
+      <subsection number="4" name="Concrete Quantity">
+        <headword number="50" name="Whole"/>
+        <headword number="51" name="Part"/>
+        <headword number="52" name="Completeness"/>
+        <headword number="53" name="Incompleteness"/>
+        <headword number="54" name="Composition"/>
+        <headword number="55" name="Exclusion"/>
+        <headword number="56" name="Component"/>
+        <headword number="57" name="Extraneousness"/>
+      </subsection>
+    </section>
+    <section number="4" name="Order">
+      <subsection number="1" name="Order">
+        <headword number="58" name="Order"/>
+        <headword number="59" name="Disorder"/>
+        <headword number="59a" name="Complexity"/>
+        <headword number="60" name="Arrangement"/>
+        <headword number="61" name="Derangement"/>
+      </subsection>
+      <subsection number="2" name="Consecutive Order">
+        <headword number="62" name="Precedence"/>
+        <headword number="63" name="Sequence"/>
+        <headword number="64" name="Precursor"/>
+        <headword number="65" name="Sequel"/>
+        <headword number="66" name="Beginning"/>
+        <headword number="67" name="End"/>
+        <headword number="68" name="Middle"/>
+        <headword number="69" name="Continuity"/>
+        <headword number="70" name="Discontinuity"/>
+        <headword number="71" name="Term"/>
+      </subsection>
+      <subsection number="3" name="Collective Order">
+        <headword number="72" name="Assemblage"/>
+        <headword number="73" name="Nonassemblage"/>
+        <headword number="74" name="Focus"/>
+      </subsection>
+      <subsection number="4" name="Distributive Order">
+        <headword number="75" name="Class"/>
+        <headword number="76" name="Inclusion"/>
+        <headword number="77" name="Exclusion"/>
+        <headword number="78" name="Generality"/>
+        <headword number="79" name="Speciality"/>
+      </subsection>
+      <subsection number="5" name="Order As Regards Categories">
+        <headword number="80" name="Normality"/>
+        <headword number="81" name="Multiformity"/>
+        <headword number="82" name="Conformity"/>
+        <headword number="83" name="Unconformity"/>
+      </subsection>
+    </section>
+    <section number="5" name="Number">
+      <subsection number="1" name="Number, in the Abstract">
+        <headword number="84" name="Number"/>
+        <headword number="85" name="Numeration"/>
+        <headword number="86" name="List"/>
+      </subsection>
+      <subsection number="2" name="Determinate Number">
+        <headword number="87" name="Unity"/>
+        <headword number="88" name="Accompaniment"/>
+        <headword number="89" name="Duality"/>
+        <headword number="90" name="Duplication"/>
+        <headword number="91" name="Bisection"/>
+        <headword number="92" name="Triality"/>
+        <headword number="93" name="Triplication"/>
+        <headword number="94" name="Trisection"/>
+        <headword number="95" name="Four"/>
+        <headword number="96" name="Quadruplication"/>
+        <headword number="97" name="Quadrisection"/>
+        <headword number="98" name="Five"/>
+        <headword number="99" name="Quinquesection"/>
+        <headword number="100" name="Plurality"/>
+      </subsection>
+      <subsection number="3" name="Indeterminate Number">
+        <headword number="100a" name="Fraction"/>
+        <headword number="101" name="Zero"/>
+        <headword number="102" name="Multitude"/>
+        <headword number="103" name="Fewness"/>
+        <headword number="104" name="Repetition"/>
+        <headword number="105" name="Infinity"/>
+      </subsection>
+    </section>
+    <section number="6" name="Time">
+      <subsection number="1" name="Absolute Time">
+        <headword number="106" name="Time"/>
+        <headword number="107" name="Neverness"/>
+        <headword number="108" name="Period"/>
+        <headword number="108a" name="Contingent Duration"/>
+        <headword number="109" name="Course"/>
+        <headword number="110" name="Diuturnity"/>
+        <headword number="111" name="Transientness"/>
+        <headword number="112" name="Perpetuity"/>
+        <headword number="113" name="Instantaneity"/>
+        <headword number="114" name="Chronometry"/>
+        <headword number="115" name="Anachronism"/>
+      </subsection>
+      <subsection number="2" name="Relative Time">
+        <headword number="116" name="Priority"/>
+        <headword number="117" name="Posteriority"/>
+        <headword number="118" name="The Present Time"/>
+        <headword number="119" name="Different time"/>
+        <headword number="120" name="Synchronism"/>
+        <headword number="121" name="Futurity"/>
+        <headword number="122" name="The Past"/>
+        <headword number="123" name="Newness"/>
+        <headword number="124" name="Oldness"/>
+        <headword number="125" name="Morning"/>
+        <headword number="126" name="Evening"/>
+        <headword number="127" name="Youth"/>
+        <headword number="128" name="Age"/>
+        <headword number="129" name="Infant"/>
+        <headword number="130" name="Veteran"/>
+        <headword number="131" name="Adolescence"/>
+        <headword number="132" name="Earliness"/>
+        <headword number="132a" name="Punctuality"/>
+        <headword number="133" name="Lateness"/>
+        <headword number="134" name="Occasion"/>
+        <headword number="135" name="Untimeliness"/>
+      </subsection>
+      <subsection number="3" name="Recurrent Time">
+        <headword number="136" name="Frequency"/>
+        <headword number="137" name="Infrequency"/>
+        <headword number="138" name="Regularity of recurrence"/>
+        <headword number="139" name="Irregularity of recurrence"/>
+      </subsection>
+    </section>
+    <section number="7" name="Change">
+      <subsection number="1" name="Simple Change">
+        <headword number="140" name="Change"/>
+        <headword number="141" name="Permanence"/>
+        <headword number="142" name="Cessation"/>
+        <headword number="143" name="Continuance in action"/>
+        <headword number="144" name="Conversion"/>
+        <headword number="145" name="Reversion"/>
+        <headword number="146" name="Revolution"/>
+        <headword number="147" name="Substitution"/>
+        <headword number="148" name="Interchange"/>
+      </subsection>
+      <subsection number="2" name="Complex Change">
+        <headword number="149" name="Changeableness"/>
+        <headword number="150" name="Stability"/>
+        <headword number="151" name="Eventuality"/>
+        <headword number="152" name="Destiny"/>
+      </subsection>
+    </section>
+    <section number="8" name="Causation">
+      <subsection number="1" name="Constancy of Sequence in Events">
+        <headword number="153" name="Cause"/>
+        <headword number="154" name="Effect"/>
+        <headword number="155" name="Attribution"/>
+        <headword number="156" name="Chance"/>
+      </subsection>
+      <subsection number="2" name="Connection Between Cause and Effect">
+        <headword number="157" name="Power"/>
+        <headword number="158" name="Impotence"/>
+        <headword number="159" name="Strength"/>
+        <headword number="160" name="Weakness"/>
+      </subsection>
+      <subsection number="3" name="Power in Operation">
+        <headword number="161" name="Production"/>
+        <headword number="162" name="Destruction"/>
+        <headword number="163" name="Reproduction"/>
+        <headword number="164" name="Producer"/>
+        <headword number="165" name="Destroyer"/>
+        <headword number="166" name="Paternity"/>
+        <headword number="167" name="Posterity"/>
+        <headword number="168" name="Productiveness"/>
+        <headword number="169" name="Unproductiveness"/>
+        <headword number="170" name="Agency"/>
+        <headword number="171" name="Physical Energy"/>
+        <headword number="172" name="Physical Inertness"/>
+        <headword number="173" name="Violence"/>
+        <headword number="174" name="Moderation"/>
+      </subsection>
+      <subsection number="4" name="Indirect Power">
+        <headword number="175" name="Influence"/>
+        <headword number="175a" name="Absence of Influence"/>
+        <headword number="176" name="Tendency"/>
+        <headword number="177" name="Liability"/>
+      </subsection>
+      <subsection number="5" name="Combinations of Causes">
+        <headword number="178" name="Concurrence"/>
+        <headword number="179" name="Counteraction"/>
+      </subsection>
+    </section>
+  </class>
+  <class number="2" name="Words Relating to Space">
+    <section number="1" name="Space in General">
+      <subsection number="1" name="Abstract Space">
+        <headword number="180" name="Space"/>
+        <headword number="180a" name="Inextension"/>
+        <headword number="181" name="Region"/>
+        <headword number="182" name="Place"/>
+      </subsection>
+      <subsection number="2" name="Relative Space">
+        <headword number="183" name="Situation"/>
+        <headword number="184" name="Location"/>
+        <headword number="185" name="Displacement"/>
+      </subsection>
+      <subsection number="3" name="Existence in Space">
+        <headword number="186" name="Presence"/>
+        <headword number="187" name="Absence"/>
+        <headword number="188" name="Inhabitant"/>
+        <headword number="189" name="Abode"/>
+        <headword number="190" name="Contents"/>
+        <headword number="191" name="Receptacle"/>
+      </subsection>
+    </section>
+    <section number="2" name="Dimensions">
+      <subsection number="1" name="General Dimensions">
+        <headword number="192" name="Size"/>
+        <headword number="193" name="Littleness"/>
+        <headword number="194" name="Expansion"/>
+        <headword number="195" name="Contraction"/>
+        <headword number="196" name="Distance"/>
+        <headword number="197" name="Nearness"/>
+        <headword number="198" name="Interval"/>
+        <headword number="199" name="Contiguity"/>
+      </subsection>
+      <subsection number="2" name="Linear Dimensions">
+        <headword number="200" name="Length"/>
+        <headword number="201" name="Shortness"/>
+        <headword number="202" name="Breadth, Thickness"/>
+        <headword number="203" name="Narrowness"/>
+        <headword number="204" name="Layer"/>
+        <headword number="205" name="Filament"/>
+        <headword number="206" name="Height"/>
+        <headword number="207" name="Lowness"/>
+        <headword number="208" name="Depth"/>
+        <headword number="209" name="Shallowness"/>
+        <headword number="210" name="Summit"/>
+        <headword number="211" name="Base"/>
+        <headword number="212" name="Verticality"/>
+        <headword number="213" name="Horizontality"/>
+        <headword number="214" name="Pendency"/>
+        <headword number="215" name="Support"/>
+        <headword number="216" name="Parallelism"/>
+        <headword number="216a" name="Perpendicularity"/>
+        <headword number="217" name="Obliquity"/>
+        <headword number="218" name="Inversion"/>
+        <headword number="219" name="Crossing"/>
+      </subsection>
+      <subsection number="3" name="Centrical Dimensions">
+        <headword number="220" name="Exteriority"/>
+        <headword number="221" name="Interiority"/>
+        <headword number="222" name="Centrality"/>
+        <headword number="223" name="Covering"/>
+        <headword number="224" name="Lining"/>
+        <headword number="225" name="Clothing"/>
+        <headword number="226" name="Divestment"/>
+        <headword number="227" name="Circumjacence"/>
+        <headword number="228" name="Interposition"/>
+        <headword number="229" name="Circumscription"/>
+        <headword number="230" name="Outline"/>
+        <headword number="231" name="Edge"/>
+        <headword number="232" name="Inclosure"/>
+        <headword number="233" name="Limit"/>
+        <headword number="234" name="Front"/>
+        <headword number="235" name="Rear"/>
+        <headword number="236" name="Laterality"/>
+        <headword number="237" name="Contraposition"/>
+        <headword number="238" name="Dextrality"/>
+        <headword number="239" name="Sinistrality"/>
+      </subsection>
+    </section>
+    <section number="3" name="Form">
+      <subsection number="1" name="General Form">
+        <headword number="240" name="Form"/>
+        <headword number="241" name="Amorphism"/>
+        <headword number="242" name="Symmetry"/>
+        <headword number="243" name="Distortion"/>
+      </subsection>
+      <subsection number="2" name="Special Form">
+        <headword number="244" name="Angularity"/>
+        <headword number="245" name="Curvature"/>
+        <headword number="246" name="Straightness"/>
+        <headword number="247" name="Circularity"/>
+        <headword number="248" name="Convolution"/>
+        <headword number="249" name="Rotundity"/>
+      </subsection>
+      <subsection number="3" name="Superficial Form">
+        <headword number="250" name="Convexity"/>
+        <headword number="251" name="Flatness"/>
+        <headword number="252" name="Concavity"/>
+        <headword number="252a" name="Sponge"/>
+        <headword number="253" name="Sharpness"/>
+        <headword number="254" name="Bluntness"/>
+        <headword number="255" name="Smoothness"/>
+        <headword number="256" name="Roughness"/>
+        <headword number="257" name="Notch"/>
+        <headword number="258" name="Fold"/>
+        <headword number="259" name="Furrow"/>
+        <headword number="260" name="Opening"/>
+        <headword number="261" name="Closure"/>
+        <headword number="262" name="Perforator"/>
+        <headword number="263" name="Stopper"/>
+      </subsection>
+    </section>
+    <section number="4" name="Motion">
+      <subsection number="1" name="Motion in General">
+        <headword number="264" name="Motion"/>
+        <headword number="265" name="Quiescence"/>
+        <headword number="266" name="Journey"/>
+        <headword number="267" name="Navigation"/>
+        <headword number="268" name="Traveler"/>
+        <headword number="269" name="Mariner"/>
+        <headword number="270" name="Transference"/>
+        <headword number="271" name="Carrier"/>
+        <headword number="272" name="Vehicle"/>
+        <headword number="273" name="Ship"/>
+      </subsection>
+      <subsection number="2" name="Degrees of Motion">
+        <headword number="274" name="Velocity"/>
+        <headword number="275" name="Slowness"/>
+      </subsection>
+      <subsection number="3" name="Motion Conjoined With Force">
+        <headword number="276" name="Impulse"/>
+        <headword number="277" name="Recoil"/>
+      </subsection>
+      <subsection number="4" name="Motion With Reference to Direction">
+        <headword number="278" name="Direction"/>
+        <headword number="279" name="Deviation"/>
+        <headword number="280" name="Precession"/>
+        <headword number="281" name="Sequence"/>
+        <headword number="282" name="Progression"/>
+        <headword number="283" name="Regression"/>
+        <headword number="284" name="Propulsion"/>
+        <headword number="285" name="Traction"/>
+        <headword number="286" name="Approach"/>
+        <headword number="287" name="Recession"/>
+        <headword number="288" name="Attraction"/>
+        <headword number="289" name="Repulsion"/>
+        <headword number="290" name="Convergence"/>
+        <headword number="291" name="Divergence"/>
+        <headword number="292" name="Arrival"/>
+        <headword number="293" name="Departure"/>
+        <headword number="294" name="Ingress"/>
+        <headword number="295" name="Egress"/>
+        <headword number="296" name="Reception"/>
+        <headword number="297" name="Ejection"/>
+        <headword number="298" name="Food"/>
+        <headword number="299" name="Excretion"/>
+        <headword number="300" name="Insertion"/>
+        <headword number="301" name="Extraction"/>
+        <headword number="302" name="Passage"/>
+        <headword number="303" name="Transcursion"/>
+        <headword number="304" name="Shortcoming"/>
+        <headword number="305" name="Ascent"/>
+        <headword number="306" name="Descent"/>
+        <headword number="307" name="Elevation"/>
+        <headword number="308" name="Depression"/>
+        <headword number="309" name="Leap"/>
+        <headword number="310" name="Plunge"/>
+        <headword number="311" name="Circuition"/>
+        <headword number="312" name="Rotation"/>
+        <headword number="313" name="Evolution"/>
+        <headword number="314" name="Oscillation"/>
+        <headword number="315" name="Agitation"/>
+      </subsection>
+    </section>
+  </class>
+  <class number="3" name="Words Relation to Matter">
+    <section number="1" name="Matter in General">
+      <subsection number="1" name="Matter in General">
+        <headword number="316" name="Materiality"/>
+        <headword number="317" name="Immateriality"/>
+        <headword number="318" name="World"/>
+        <headword number="319" name="Gravity"/>
+        <headword number="320" name="Levity"/>
+      </subsection>
+    </section>
+    <section number="2" name="Inorganic Matter">
+      <subsection number="1" name="Solid Matter">
+        <headword number="321" name="Density"/>
+        <headword number="322" name="Rarity"/>
+        <headword number="323" name="Hardness"/>
+        <headword number="324" name="Softness"/>
+        <headword number="325" name="Elasticity"/>
+        <headword number="326" name="Inelasticity"/>
+        <headword number="327" name="Tenacity"/>
+        <headword number="328" name="Brittleness"/>
+        <headword number="329" name="Texture"/>
+        <headword number="330" name="Pulverulence"/>
+        <headword number="331" name="Friction"/>
+        <headword number="332" name="Lubrication"/>
+      </subsection>
+      <subsection number="2" name="Fluid Matter">
+        <headword number="333" name="Fluidity"/>
+        <headword number="334" name="Gaseity"/>
+        <headword number="335" name="Liquefaction"/>
+        <headword number="336" name="Vaporization"/>
+        <headword number="337" name="Water"/>
+        <headword number="338" name="Air"/>
+        <headword number="339" name="Moisture"/>
+        <headword number="340" name="Dryness"/>
+        <headword number="341" name="Ocean"/>
+        <headword number="342" name="Land"/>
+        <headword number="343" name="Gulf"/>
+        <headword number="344" name="Plain"/>
+        <headword number="345" name="Marsh"/>
+        <headword number="346" name="Island"/>
+        <headword number="347" name="Stream"/>
+        <headword number="348" name="River"/>
+        <headword number="349" name="Wind"/>
+        <headword number="350" name="Conduit"/>
+        <headword number="351" name="Airpipe"/>
+      </subsection>
+      <subsection number="3" name="Imperfect Fluids">
+        <headword number="352" name="Semiliquidity"/>
+        <headword number="353" name="Bubble"/>
+        <headword number="354" name="Pulpiness"/>
+        <headword number="355" name="Unctuousness"/>
+        <headword number="356" name="Oil"/>
+        <headword number="356a" name="Resin"/>
+      </subsection>
+    </section>
+    <section number="3" name="Organic Matter">
+      <subsection number="1" name="Vitality">
+        <headword number="357" name="Organization"/>
+        <headword number="358" name="Inorganization"/>
+        <headword number="359" name="Life"/>
+        <headword number="360" name="Death"/>
+        <headword number="361" name="Killing"/>
+        <headword number="362" name="Corpse"/>
+        <headword number="363" name="Interment"/>
+        <headword number="364" name="Animality"/>
+        <headword number="365" name="Vegetability|"/>
+        <headword number="366" name="Animal"/>
+        <headword number="367" name="Vegetable"/>
+        <headword number="368" name="Zoology"/>
+        <headword number="369" name="Botany"/>
+        <headword number="370" name="Husbandry"/>
+        <headword number="371" name="Agriculture"/>
+        <headword number="372" name="Mankind"/>
+        <headword number="373" name="Man"/>
+        <headword number="374" name="Woman"/>
+        <headword number="374a" name="Sexuality "/>
+      </subsection>
+      <subsection number="2" name="Sensation">
+        <headword number="375" name="Physical Sensibility"/>
+        <headword number="376" name="Physical Insensibility"/>
+        <headword number="377" name="Physical Pleasure"/>
+        <headword number="378" name="Physical Pain"/>
+        <headword number="379" name="Touch"/>
+        <headword number="380" name="Sensations of Touch"/>
+        <headword number="381" name="Numbness"/>
+        <headword number="382" name="Heat"/>
+        <headword number="383" name="Cold"/>
+        <headword number="384" name="Calefaction"/>
+        <headword number="385" name="Refrigeration"/>
+        <headword number="386" name="Furnace"/>
+        <headword number="387" name="Refrigerator"/>
+        <headword number="388" name="Fuel"/>
+        <headword number="388a" name="Insulation, Fire extinction"/>
+        <headword number="389" name="Thermometer"/>
+        <headword number="390" name="Taste"/>
+        <headword number="391" name="Insipidity"/>
+        <headword number="392" name="Pungency"/>
+        <headword number="392a" name="Saltiness"/>
+        <headword number="392b" name="Bitterness"/>
+        <headword number="393" name="Condiment"/>
+        <headword number="394" name="Savoriness"/>
+        <headword number="395" name="Unsavoriness"/>
+        <headword number="396" name="Sweetness"/>
+        <headword number="397" name="Sourness"/>
+        <headword number="398" name="Odor"/>
+        <headword number="399" name="Inodorousness"/>
+        <headword number="400" name="Fragrance"/>
+        <headword number="401" name="Fetor"/>
+        <headword number="401a" name="Acridity"/>
+        <headword number="402" name="Sound"/>
+        <headword number="403" name="Silence"/>
+        <headword number="404" name="Loudness"/>
+        <headword number="405" name="Faintness"/>
+        <headword number="406" name="Snap"/>
+        <headword number="407" name="Roll"/>
+        <headword number="408" name="Resonance"/>
+        <headword number="408a" name="Nonresonance"/>
+        <headword number="409" name="Sibilation"/>
+        <headword number="410" name="Stridor"/>
+        <headword number="411" name="Cry"/>
+        <headword number="412" name="Ululation"/>
+        <headword number="413" name="Melody"/>
+        <headword number="414" name="Discord"/>
+        <headword number="415" name="Music"/>
+        <headword number="416" name="Musician"/>
+        <headword number="417" name="Musical Instruments"/>
+        <headword number="418" name="Hearing"/>
+        <headword number="419" name="Deafness"/>
+        <headword number="420" name="Light"/>
+        <headword number="421" name="Darkness"/>
+        <headword number="422" name="Dimness"/>
+        <headword number="423" name="Luminary"/>
+        <headword number="424" name="Shade"/>
+        <headword number="425" name="Transparency"/>
+        <headword number="426" name="Opacity"/>
+        <headword number="426a" name="Turbidity"/>
+        <headword number="427" name="Semitransparency"/>
+        <headword number="428" name="Color"/>
+        <headword number="429" name="Achromatism"/>
+        <headword number="430" name="Whiteness"/>
+        <headword number="431" name="Blackness"/>
+        <headword number="432" name="Gray"/>
+        <headword number="433" name="Brown"/>
+        <headword number="434" name="Redness"/>
+        <headword number="435" name="Greenness"/>
+        <headword number="436" name="Yellowness"/>
+        <headword number="437" name="Purple"/>
+        <headword number="438" name="Blueness"/>
+        <headword number="439" name="Orange"/>
+        <headword number="440" name="Variegation"/>
+        <headword number="441" name="Vision"/>
+        <headword number="442" name="Blindness"/>
+        <headword number="443" name="Dimsightedness"/>
+        <headword number="444" name="Spectator"/>
+        <headword number="445" name="Optical Instruments"/>
+        <headword number="446" name="Visibility"/>
+        <headword number="447" name="Invisibility"/>
+        <headword number="448" name="Appearance"/>
+        <headword number="449" name="Disappearance"/>
+      </subsection>
+    </section>
+  </class>
+  <class number="4" name="Words Relating to the Intellectual Faculties - Formation of Ideas">
+    <section number="1" name="Operations of Intellect in General">
+      <subsection number="1" name="Operations of Intellect in General">
+        <headword number="450" name="Intellect"/>
+        <headword number="450a" name="Absence or want of Intellect"/>
+        <headword number="451" name="Thought"/>
+        <headword number="452" name="Incogitancy"/>
+        <headword number="453" name="Idea"/>
+        <headword number="454" name="Topic"/>
+      </subsection>
+    </section>
+    <section number="2" name="Precursory Conditions and Operations">
+      <subsection number="1" name="Precursory Conditions and Operations">
+        <headword number="455" name="Curiosity"/>
+        <headword number="456" name="Incuriosity"/>
+        <headword number="457" name="Attention"/>
+        <headword number="458" name="Inattention"/>
+        <headword number="459" name="Care"/>
+        <headword number="460" name="Neglect"/>
+        <headword number="461" name="Inquiry "/>
+        <headword number="462" name="Answer"/>
+        <headword number="463" name="Experiment"/>
+        <headword number="464" name="Comparison"/>
+        <headword number="464a" name="Incomparability "/>
+        <headword number="465" name="Discrimination"/>
+        <headword number="465a" name="Indiscrimination"/>
+        <headword number="465b" name="Identification"/>
+        <headword number="466" name="Measurement"/>
+      </subsection>
+    </section>
+    <section number="3" name="Materials For Reasoning">
+      <subsection number="1" name="Materials For Reasoning">
+        <headword number="467" name="Evidence "/>
+        <headword number="468" name="Counter Evidence"/>
+        <headword number="469" name="Qualification"/>
+        <headword number="470" name="Possibility"/>
+        <headword number="471" name="Impossibility"/>
+        <headword number="472" name="Probability"/>
+        <headword number="473" name="Improbability"/>
+        <headword number="474" name="Certainty"/>
+        <headword number="475" name="Uncertainty"/>
+      </subsection>
+    </section>
+    <section number="4" name="Reasoning Processes">
+      <subsection number="1" name="Reasoning Processes">
+        <headword number="476" name="Reasoning,"/>
+        <headword number="477" name="Intuition"/>
+        <headword number="478" name="Demonstration"/>
+        <headword number="479" name="Confutation"/>
+      </subsection>
+    </section>
+    <section number="5" name="Results of Reasoning">
+      <subsection number="1" name="Results of Reasoning">
+        <headword number="480" name="Judgment"/>
+        <headword number="480a" name="Discovery"/>
+        <headword number="481" name="Misjudgment"/>
+        <headword number="482" name="Overestimation"/>
+        <headword number="483" name="Underestimation"/>
+        <headword number="484" name="Belief"/>
+        <headword number="485" name="Unbelief"/>
+        <headword number="486" name="Credulity"/>
+        <headword number="487" name="Incredulity"/>
+        <headword number="488" name="Assent"/>
+        <headword number="489" name="Dissent"/>
+        <headword number="490" name="Knowledge"/>
+        <headword number="491" name="Ignorance"/>
+        <headword number="492" name="Scholar"/>
+        <headword number="493" name="Ignoramus"/>
+        <headword number="494" name="Truth"/>
+        <headword number="495" name="Error"/>
+        <headword number="496" name="Maxim"/>
+        <headword number="497" name="Absurdity"/>
+        <headword number="498" name="Intelligence"/>
+        <headword number="499" name="Imbecility"/>
+        <headword number="500" name="Sage"/>
+        <headword number="501" name="Fool"/>
+        <headword number="502" name="Sanity"/>
+        <headword number="503" name="Insanity"/>
+        <headword number="504" name="Madman"/>
+      </subsection>
+    </section>
+    <section number="6" name="Extension of Thought">
+      <subsection number="1" name="To the Past">
+        <headword number="505" name="Memory"/>
+        <headword number="506" name="Oblivion"/>
+        <headword number="507" name="Expectation"/>
+        <headword number="508" name="Inexpectation"/>
+        <headword number="509" name="Disappointment"/>
+        <headword number="510" name="Foresight"/>
+        <headword number="511" name="Prediction"/>
+        <headword number="512" name="Omen"/>
+        <headword number="513" name="Oracle"/>
+      </subsection>
+    </section>
+    <section number="7" name="Creative Thought">
+      <subsection number="1" name="Creative Thought">
+        <headword number="514" name="Supposition"/>
+        <headword number="514a" name="Analogy"/>
+        <headword number="515" name="Imagination"/>
+      </subsection>
+    </section>
+  </class>
+  <class number="5" name="Words Relating to the Intellectual Faculties - Communication of Ideas">
+    <section number="1" name="Nature of Ideas Communicated">
+      <subsection number="1" name="Nature of Ideas Communicated">
+        <headword number="516" name="Meaning"/>
+        <headword number="517" name="Unmeaningness"/>
+        <headword number="518" name="Intelligibility"/>
+        <headword number="519" name="Unintelligibility"/>
+        <headword number="520" name="Equivocalness"/>
+        <headword number="521" name="Metaphor"/>
+        <headword number="522" name="Interpretation"/>
+        <headword number="523" name="Misinterpretation"/>
+        <headword number="524" name="Interpreter"/>
+      </subsection>
+    </section>
+    <section number="2" name="Modes of Communication">
+      <subsection number="1" name="Modes of Communication">
+        <headword number="525" name="Manifestation"/>
+        <headword number="526" name="Latency"/>
+        <headword number="527" name="Information"/>
+        <headword number="527a" name="Correction"/>
+        <headword number="528" name="Concealment"/>
+        <headword number="529" name="Disclosure"/>
+        <headword number="530" name="Ambush "/>
+        <headword number="531" name="Publication"/>
+        <headword number="532" name="News"/>
+        <headword number="533" name="Secret"/>
+        <headword number="534" name="Messenger"/>
+        <headword number="535" name="Affirmation"/>
+        <headword number="536" name="Negation"/>
+        <headword number="537" name="Teaching"/>
+        <headword number="538" name="Misteaching"/>
+        <headword number="539" name="Learning"/>
+        <headword number="540" name="Teacher"/>
+        <headword number="541" name="Learner"/>
+        <headword number="542" name="School"/>
+        <headword number="543" name="Veracity"/>
+        <headword number="544" name="Falsehood"/>
+        <headword number="545" name="Deception"/>
+        <headword number="546" name="Untruth"/>
+        <headword number="547" name="Dupe"/>
+        <headword number="548" name="Deceiver"/>
+        <headword number="549" name="Exaggeration"/>
+      </subsection>
+    </section>
+    <section number="3" name="Means of Communicating Ideas">
+      <subsection number="1" name="Natural Means">
+        <headword number="550" name="Indication"/>
+        <headword number="551" name="Record"/>
+        <headword number="552" name="Obliteration"/>
+        <headword number="553" name="Recorder"/>
+        <headword number="554" name="Representation"/>
+        <headword number="555" name="Misrepresentation"/>
+        <headword number="556" name="Painting"/>
+        <headword number="557" name="Sculpture"/>
+        <headword number="558" name="Engraving"/>
+        <headword number="559" name="Artist"/>
+      </subsection>
+      <subsection number="2" name="Conventional Means">
+        <headword number="560" name="Language"/>
+        <headword number="561" name="Letter"/>
+        <headword number="562" name="Word"/>
+        <headword number="563" name="Neologism"/>
+        <headword number="564" name="Nomenclature"/>
+        <headword number="565" name="Misnomer"/>
+        <headword number="566" name="Phrase"/>
+        <headword number="567" name="Grammar"/>
+        <headword number="568" name="Solecism"/>
+        <headword number="569" name="Style"/>
+        <headword number="570" name="Perspicuity"/>
+        <headword number="571" name="Obscurity"/>
+        <headword number="572" name="Conciseness"/>
+        <headword number="573" name="Diffuseness"/>
+        <headword number="574" name="Vigor"/>
+        <headword number="575" name="Feebleness"/>
+        <headword number="576" name="Plainness"/>
+        <headword number="577" name="Ornament"/>
+        <headword number="578" name="Elegance"/>
+        <headword number="579" name="Inelegance"/>
+        <headword number="580" name="Voice"/>
+        <headword number="581" name="Aphony"/>
+        <headword number="582" name="Speech"/>
+        <headword number="583" name="Stammering"/>
+        <headword number="584" name="Loquacity"/>
+        <headword number="585" name="Taciturnity"/>
+        <headword number="586" name="Allocution"/>
+        <headword number="587" name="Response"/>
+        <headword number="588" name="Conversation"/>
+        <headword number="589" name="Soliloquy"/>
+        <headword number="590" name="Writing"/>
+        <headword number="591" name="Printing"/>
+        <headword number="592" name="Correspondence"/>
+        <headword number="593" name="Book"/>
+        <headword number="594" name="Description"/>
+        <headword number="595" name="Dissertation"/>
+        <headword number="596" name="Compendium"/>
+        <headword number="597" name="Poetry"/>
+        <headword number="598" name="Prose"/>
+        <headword number="599" name="The Drama"/>
+      </subsection>
+    </section>
+  </class>
+  <class number="6" name="Words Relating to the Voluntary Powers - Individual Volition">
+    <section number="1" name="Volition in General">
+      <subsection number="1" name="Acts of Volition">
+        <headword number="600" name="Will"/>
+        <headword number="601" name="Necessity"/>
+        <headword number="602" name="Willingness"/>
+        <headword number="603" name="Unwillingness"/>
+        <headword number="604" name="Resolution"/>
+        <headword number="604a" name="Perseverance"/>
+        <headword number="605" name="Irresolution"/>
+        <headword number="606" name="Obstinacy"/>
+        <headword number="607" name="Tergiversation"/>
+        <headword number="608" name="Caprice"/>
+        <headword number="609" name="Choice"/>
+        <headword number="609a" name="Absence of Choice"/>
+        <headword number="610" name="Rejection"/>
+        <headword number="611" name="Predetermination"/>
+        <headword number="612" name="Impulse"/>
+        <headword number="613" name="Habit"/>
+        <headword number="614" name="Desuetude"/>
+      </subsection>
+      <subsection number="2" name="Causes of Volition">
+        <headword number="615" name="Motive"/>
+        <headword number="615a" name="Absence of Motive"/>
+        <headword number="616" name="Dissuasion"/>
+        <headword number="617" name="Pretext"/>
+      </subsection>
+      <subsection number="3" name="Objects of Volition">
+        <headword number="618" name="Good"/>
+        <headword number="619" name="Evil"/>
+      </subsection>
+    </section>
+    <section number="2" name="Prospective Volition">
+      <subsection number="1" name="Conceptional Volition">
+        <headword number="620" name="Intention"/>
+        <headword number="621" name="Chance"/>
+        <headword number="622" name="Pursuit"/>
+        <headword number="623" name="Avoidance"/>
+        <headword number="624" name="Relinquishment"/>
+        <headword number="625" name="Business"/>
+        <headword number="626" name="Plan"/>
+        <headword number="627" name="Method"/>
+        <headword number="628" name="Mid-course"/>
+        <headword number="629" name="Circuit"/>
+        <headword number="630" name="Requirement"/>
+      </subsection>
+      <subsection number="2" name="Subservience to Ends">
+        <headword number="631" name="Instrumentality"/>
+        <headword number="632" name="Means"/>
+        <headword number="633" name="Instrument"/>
+        <headword number="634" name="Substitute"/>
+        <headword number="635" name="Materials"/>
+        <headword number="636" name="Store"/>
+        <headword number="637" name="Provision"/>
+        <headword number="638" name="Waste"/>
+        <headword number="639" name="Sufficiency"/>
+        <headword number="640" name="Insufficiency"/>
+        <headword number="641" name="Redundancy"/>
+        <headword number="642" name="Importance"/>
+        <headword number="643" name="Unimportance"/>
+        <headword number="644" name="Utility"/>
+        <headword number="645" name="Inutility"/>
+        <headword number="646" name="Expedience"/>
+        <headword number="647" name="Inexpedience"/>
+        <headword number="648" name="Goodness"/>
+        <headword number="649" name="Badness"/>
+        <headword number="650" name="Perfection"/>
+        <headword number="651" name="Imperfection"/>
+        <headword number="652" name="Cleanness"/>
+        <headword number="653" name="Uncleanness"/>
+        <headword number="654" name="Health"/>
+        <headword number="655" name="Disease"/>
+        <headword number="656" name="Salubrity"/>
+        <headword number="657" name="Insalubrity"/>
+        <headword number="658" name="Improvement"/>
+        <headword number="659" name="Deterioration"/>
+        <headword number="660" name="Restoration"/>
+        <headword number="661" name="Relapse"/>
+        <headword number="662" name="Remedy"/>
+        <headword number="663" name="Bane"/>
+        <headword number="664" name="Safety"/>
+        <headword number="665" name="Danger"/>
+        <headword number="666" name="Refuge"/>
+        <headword number="667" name="Pitfall"/>
+        <headword number="668" name="Warning"/>
+        <headword number="669" name="Alarm"/>
+        <headword number="670" name="Preservation"/>
+        <headword number="671" name="Escape"/>
+        <headword number="672" name="Deliverance"/>
+      </subsection>
+      <subsection number="3" name="Precursory Measures">
+        <headword number="673" name="Preparation"/>
+        <headword number="674" name="Nonpreparation"/>
+        <headword number="675" name="Essay"/>
+        <headword number="676" name="Undertaking"/>
+        <headword number="677" name="Use"/>
+        <headword number="678" name="Disuse"/>
+        <headword number="679" name="Misuse"/>
+      </subsection>
+    </section>
+    <section number="3" name="Voluntary Action">
+      <subsection number="1" name="Simple Voluntary Action">
+        <headword number="680" name="Action"/>
+        <headword number="681" name="Inaction"/>
+        <headword number="682" name="Activity"/>
+        <headword number="683" name="Inactivity"/>
+        <headword number="684" name="Haste"/>
+        <headword number="685" name="Leisure"/>
+        <headword number="686" name="Exertion"/>
+        <headword number="687" name="Repose"/>
+        <headword number="688" name="Fatigue"/>
+        <headword number="689" name="Refreshment"/>
+        <headword number="690" name="Agent"/>
+        <headword number="691" name="Workshop"/>
+      </subsection>
+      <subsection number="2" name="Complex Voluntary Action">
+        <headword number="692" name="Conduct"/>
+        <headword number="693" name="Direction"/>
+        <headword number="694" name="Director"/>
+        <headword number="695" name="Advice"/>
+        <headword number="696" name="Council"/>
+        <headword number="697" name="Precept"/>
+        <headword number="698" name="Skill"/>
+        <headword number="699" name="Unskillfulness"/>
+        <headword number="700" name="Proficient"/>
+        <headword number="701" name="Bungler"/>
+        <headword number="702" name="Cunning"/>
+        <headword number="703" name="Artlessness"/>
+      </subsection>
+    </section>
+    <section number="4" name="Antagonism">
+      <subsection number="1" name="Conditional Antagonism">
+        <headword number="704" name="Difficulty"/>
+        <headword number="705" name="Facility"/>
+        <headword number="706" name="Hindrance"/>
+        <headword number="707" name="Aid"/>
+        <headword number="708" name="Opposition"/>
+        <headword number="709" name="Cooperation"/>
+        <headword number="710" name="Opponent"/>
+        <headword number="711" name="Auxiliary"/>
+        <headword number="712" name="Party"/>
+        <headword number="713" name="Discord"/>
+        <headword number="714" name="Concord"/>
+        <headword number="715" name="Defiance"/>
+        <headword number="716" name="Attack"/>
+        <headword number="717" name="Defense"/>
+        <headword number="718" name="Retaliation"/>
+        <headword number="719" name="Resistance"/>
+        <headword number="720" name="Contention"/>
+        <headword number="721" name="Peace"/>
+        <headword number="722" name="Warfare"/>
+        <headword number="723" name="Pacification"/>
+        <headword number="724" name="Mediation"/>
+        <headword number="725" name="Submission"/>
+        <headword number="726" name="Combatant"/>
+        <headword number="727" name="Arms"/>
+        <headword number="728" name="Arena"/>
+      </subsection>
+    </section>
+    <section number="5" name="Results of Voluntary Action">
+      <subsection number="1" name="Results of Voluntary Action">
+        <headword number="729" name="Completion"/>
+        <headword number="730" name="Noncompletion"/>
+        <headword number="731" name="Success"/>
+        <headword number="732" name="Failure"/>
+        <headword number="733" name="Trophy"/>
+        <headword number="734" name="Prosperity"/>
+        <headword number="735" name="Adversity"/>
+        <headword number="736" name="Mediocrity"/>
+      </subsection>
+    </section>
+  </class>
+  <class number="7" name="Words Relating to the Voluntary Powers - Intersocial Volition">
+    <section number="1" name="General Intersocial Volition">
+      <subsection number="1" name="General Intersocial Volition">
+        <headword number="737" name="Authority"/>
+        <headword number="737a" name="Government"/>
+        <headword number="737b" name="Politics"/>
+        <headword number="738" name="Laxity"/>
+        <headword number="739" name="Severity"/>
+        <headword number="740" name="Lenity"/>
+        <headword number="741" name="Command"/>
+        <headword number="742" name="Disobedience"/>
+        <headword number="743" name="Obedience"/>
+        <headword number="744" name="Compulsion"/>
+        <headword number="745" name="Master"/>
+        <headword number="746" name="Servant"/>
+        <headword number="747" name="Scepter"/>
+        <headword number="748" name="Freedom"/>
+        <headword number="749" name="Subjection"/>
+        <headword number="750" name="Liberation"/>
+        <headword number="751" name="Restraint"/>
+        <headword number="752" name="Prison"/>
+        <headword number="753" name="Keeper"/>
+        <headword number="754" name="Prisoner"/>
+        <headword number="755" name="Commission"/>
+        <headword number="756" name="Abrogation"/>
+        <headword number="757" name="Resignation"/>
+        <headword number="758" name="Consignee"/>
+        <headword number="759" name="Deputy"/>
+      </subsection>
+    </section>
+    <section number="2" name="Special Intersocial Volition">
+      <subsection number="1" name="Special Intersocial Volition">
+        <headword number="760" name="Permission"/>
+        <headword number="761" name="Prohibition"/>
+        <headword number="762" name="Consent"/>
+        <headword number="763" name="Offer"/>
+        <headword number="764" name="Refusal"/>
+        <headword number="765" name="Request"/>
+        <headword number="766" name="Deprecation"/>
+        <headword number="767" name="Petitioner"/>
+      </subsection>
+    </section>
+    <section number="3" name="Conditional Intersocial Volition">
+      <subsection number="1" name="Conditional Intersocial Volition">
+        <headword number="768" name="Promise"/>
+        <headword number="768a" name="Release from engagement"/>
+        <headword number="769" name="Compact"/>
+        <headword number="770" name="Conditions"/>
+        <headword number="771" name="Security"/>
+        <headword number="772" name="Observance"/>
+        <headword number="773" name="Nonobservance"/>
+        <headword number="774" name="Compromise"/>
+      </subsection>
+    </section>
+    <section number="4" name="Possessive Relations">
+      <subsection number="1" name="Property in General">
+        <headword number="775" name="Acquisition"/>
+        <headword number="776" name="Loss"/>
+        <headword number="777" name="Possession"/>
+        <headword number="777a" name="Exemption"/>
+        <headword number="778" name="Participation"/>
+        <headword number="779" name="Possessor"/>
+        <headword number="780" name="Property"/>
+        <headword number="781" name="Retention"/>
+        <headword number="782" name="Relinquishment"/>
+      </subsection>
+      <subsection number="2" name="Transfer of Property">
+        <headword number="783" name="Transfer"/>
+        <headword number="784" name="Giving"/>
+        <headword number="785" name="Receiving"/>
+        <headword number="786" name="Apportionment"/>
+        <headword number="787" name="Lending"/>
+        <headword number="788" name="Borrowing"/>
+        <headword number="789" name="Taking"/>
+        <headword number="790" name="Restitution"/>
+        <headword number="791" name="Stealing"/>
+        <headword number="792" name="Thief"/>
+        <headword number="793" name="Booty"/>
+      </subsection>
+      <subsection number="3" name="Interchange of Property">
+        <headword number="794" name="Barter"/>
+        <headword number="795" name="Purchase"/>
+        <headword number="796" name="Sale"/>
+        <headword number="797" name="Merchant"/>
+        <headword number="798" name="Merchandise"/>
+        <headword number="799" name="Mart"/>
+        <headword number="799a" name="Stock Market "/>
+        <headword number="799b" name="Securities"/>
+      </subsection>
+      <subsection number="4" name="Monetary Relations">
+        <headword number="800" name="Money"/>
+        <headword number="801" name="Treasurer"/>
+        <headword number="802" name="Treasury"/>
+        <headword number="803" name="Wealth"/>
+        <headword number="804" name="Poverty"/>
+        <headword number="805" name="Credit"/>
+        <headword number="806" name="Debt"/>
+        <headword number="807" name="Payment"/>
+        <headword number="808" name="Nonpayment"/>
+        <headword number="809" name="Expenditure"/>
+        <headword number="810" name="Receipt"/>
+        <headword number="811" name="Accounts"/>
+        <headword number="812" name="Price"/>
+        <headword number="812a" name="Value "/>
+        <headword number="812b" name="Worthlessness"/>
+        <headword number="813" name="Discount"/>
+        <headword number="814" name="Dearness"/>
+        <headword number="815" name="Cheapness"/>
+        <headword number="816" name="Liberality"/>
+        <headword number="817" name="Economy"/>
+        <headword number="817a" name="Greed "/>
+        <headword number="818" name="Prodigality"/>
+        <headword number="819" name="Parsimony"/>
+      </subsection>
+    </section>
+  </class>
+  <class number="8" name="Words Relation to the Sentiment and Moral Powers">
+    <section number="1" name="Affections in General">
+      <subsection number="1" name="Affections in General">
+        <headword number="820" name="Affections"/>
+        <headword number="821" name="Feeling"/>
+        <headword number="822" name="Sensibility"/>
+        <headword number="823" name="Insensibility"/>
+        <headword number="824" name="Excitation"/>
+        <headword number="825" name="Excitability"/>
+        <headword number="826" name="Inexcitability"/>
+      </subsection>
+    </section>
+    <section number="2" name="Personal Affections">
+      <subsection number="1" name="Passive Affections">
+        <headword number="827" name="Pleasure"/>
+        <headword number="828" name="Pain"/>
+        <headword number="829" name="Pleasurableness"/>
+        <headword number="830" name="Painfulness"/>
+        <headword number="831" name="Content"/>
+        <headword number="832" name="Discontent"/>
+        <headword number="833" name="Regret"/>
+        <headword number="834" name="Relief"/>
+        <headword number="835" name="Aggravation"/>
+        <headword number="836" name="Cheerfulness"/>
+        <headword number="837" name="Dejection"/>
+        <headword number="838" name="Rejoicing"/>
+        <headword number="839" name="Lamentation"/>
+        <headword number="840" name="Amusement"/>
+        <headword number="841" name="Weariness"/>
+        <headword number="842" name="Wit"/>
+        <headword number="843" name="Dullness"/>
+        <headword number="844" name="Humorist"/>
+      </subsection>
+      <subsection number="2" name="Discriminative Affections">
+        <headword number="845" name="Beauty"/>
+        <headword number="846" name="Ugliness"/>
+        <headword number="847" name="Ornament"/>
+        <headword number="847a" name="Jewelry"/>
+        <headword number="848" name="Blemish"/>
+        <headword number="849" name="Simplicity"/>
+        <headword number="850" name="Taste"/>
+        <headword number="851" name="Vulgarity"/>
+        <headword number="852" name="Fashion"/>
+        <headword number="853" name="Ridiculousness"/>
+        <headword number="854" name="Fop"/>
+        <headword number="855" name="Affectation"/>
+        <headword number="856" name="Ridicule"/>
+        <headword number="857" name="Laughingstock"/>
+      </subsection>
+      <subsection number="3" name="Prospective Affections">
+        <headword number="858" name="Hope"/>
+        <headword number="859" name="Hopelessness"/>
+        <headword number="860" name="Fear"/>
+        <headword number="861" name="Courage"/>
+        <headword number="862" name="Cowardice"/>
+        <headword number="863" name="Rashness"/>
+        <headword number="864" name="Caution"/>
+        <headword number="865" name="Desire"/>
+        <headword number="866" name="Indifference"/>
+        <headword number="867" name="Dislike"/>
+        <headword number="868" name="Fastidiousness"/>
+        <headword number="869" name="Satiety"/>
+      </subsection>
+      <subsection number="4" name="Contemplative Affections">
+        <headword number="870" name="Wonder"/>
+        <headword number="871" name="Expectance"/>
+        <headword number="872" name="Prodigy"/>
+      </subsection>
+      <subsection number="5" name="Extrinsic Affections">
+        <headword number="873" name="Repute"/>
+        <headword number="874" name="Disrepute"/>
+        <headword number="875" name="Nobility"/>
+        <headword number="876" name="Commonalty"/>
+        <headword number="877" name="Title"/>
+        <headword number="878" name="Pride"/>
+        <headword number="879" name="Humility"/>
+        <headword number="880" name="Vanity"/>
+        <headword number="881" name="Modesty"/>
+        <headword number="882" name="Ostentation"/>
+        <headword number="883" name="Celebration"/>
+        <headword number="884" name="Boasting"/>
+        <headword number="885" name="Insolence"/>
+        <headword number="886" name="Servility"/>
+        <headword number="887" name="Blusterer"/>
+      </subsection>
+    </section>
+    <section number="3" name="Sympathetic Affections">
+      <subsection number="1" name="Social Affections">
+        <headword number="888" name="Friendship"/>
+        <headword number="889" name="Enmity"/>
+        <headword number="890" name="Friend"/>
+        <headword number="891" name="Enemy"/>
+        <headword number="892" name="Sociality"/>
+        <headword number="893" name="Seclusion"/>
+        <headword number="894" name="Courtesy"/>
+        <headword number="895" name="Discourtesy"/>
+        <headword number="896" name="Congratulation"/>
+        <headword number="897" name="Love"/>
+        <headword number="898" name="Hate"/>
+        <headword number="899" name="Favorite"/>
+        <headword number="900" name="Resentment"/>
+        <headword number="901" name="Irascibility"/>
+        <headword number="901a" name="Sullenness"/>
+        <headword number="902" name="Endearment"/>
+        <headword number="903" name="Marriage"/>
+        <headword number="904" name="Celibacy"/>
+        <headword number="905" name="Divorce"/>
+      </subsection>
+      <subsection number="2" name="Diffusive Sympathetic Affections">
+        <headword number="906" name="Benevolence"/>
+        <headword number="907" name="Malevolence"/>
+        <headword number="908" name="Malediction"/>
+        <headword number="909" name="Threat"/>
+        <headword number="910" name="Philanthropy"/>
+        <headword number="911" name="Misanthropy"/>
+        <headword number="912" name="Benefactor"/>
+        <headword number="913" name="Evil doer"/>
+      </subsection>
+      <subsection number="3" name="Special Sympathetic Affections">
+        <headword number="914" name="Pity"/>
+        <headword number="914a" name="Pitilessness"/>
+        <headword number="915" name="Condolence"/>
+      </subsection>
+      <subsection number="4" name="Retrospective Sympathetic Affections">
+        <headword number="916" name="Gratitude"/>
+        <headword number="917" name="Ingratitude"/>
+        <headword number="918" name="Forgiveness"/>
+        <headword number="919" name="Revenge"/>
+        <headword number="920" name="Jealousy"/>
+        <headword number="921" name="Envy"/>
+      </subsection>
+    </section>
+    <section number="4" name="Moral Affections">
+      <subsection number="1" name="Moral Obligations">
+        <headword number="922" name="Right"/>
+        <headword number="923" name="Wrong"/>
+        <headword number="924" name="Dueness"/>
+        <headword number="925" name="Undueness"/>
+        <headword number="926" name="Duty"/>
+        <headword number="927" name="Dereliction of Duty"/>
+        <headword number="927a" name="Exemption"/>
+      </subsection>
+      <subsection number="2" name="Moral Sentiments">
+        <headword number="928" name="Respect"/>
+        <headword number="929" name="Disrespect"/>
+        <headword number="930" name="Contempt"/>
+        <headword number="931" name="Approbation"/>
+        <headword number="932" name="Disapprobation"/>
+        <headword number="933" name="Flattery"/>
+        <headword number="934" name="Detraction"/>
+        <headword number="935" name="Flatterer"/>
+        <headword number="936" name="Detractor"/>
+        <headword number="937" name="Vindication"/>
+        <headword number="938" name="Accusation"/>
+      </subsection>
+      <subsection number="3" name="Moral Conditions">
+        <headword number="939" name="Probity"/>
+        <headword number="940" name="Improbity"/>
+        <headword number="941" name="Knave"/>
+        <headword number="942" name="Disinterestedness"/>
+        <headword number="943" name="Selfishness"/>
+        <headword number="944" name="Virtue"/>
+        <headword number="945" name="Vice"/>
+        <headword number="946" name="Innocence"/>
+        <headword number="947" name="Guilt"/>
+        <headword number="948" name="Good Man"/>
+        <headword number="949" name="Bad Man"/>
+        <headword number="950" name="Penitence"/>
+        <headword number="951" name="Impenitence"/>
+        <headword number="952" name="Atonement"/>
+      </subsection>
+      <subsection number="4" name="Moral Practice">
+        <headword number="953" name="Temperance"/>
+        <headword number="954" name="Intemperance"/>
+        <headword number="954a" name="Sensualist"/>
+        <headword number="955" name="Asceticism"/>
+        <headword number="956" name="Fasting"/>
+        <headword number="957" name="Gluttony"/>
+        <headword number="958" name="Sobriety"/>
+        <headword number="959" name="Drunkenness"/>
+        <headword number="960" name="Purity"/>
+        <headword number="961" name="Impurity"/>
+        <headword number="962" name="Libertine"/>
+      </subsection>
+      <subsection number="5" name="Institutions">
+        <headword number="963" name="Legality"/>
+        <headword number="964" name="Illegality"/>
+        <headword number="965" name="Jurisdiction"/>
+        <headword number="966" name="Tribunal"/>
+        <headword number="967" name="Judge"/>
+        <headword number="968" name="Lawyer"/>
+        <headword number="969" name="Lawsuit"/>
+        <headword number="970" name="Acquittal"/>
+        <headword number="971" name="Condemnation"/>
+        <headword number="972" name="Punishment"/>
+        <headword number="973" name="Reward"/>
+        <headword number="974" name="Penalty"/>
+        <headword number="975" name="Scourge"/>
+      </subsection>
+    </section>
+    <section number="5" name="Religious Affections">
+      <subsection number="1" name="Superhuman Beings and Regions">
+        <headword number="976" name="Deity"/>
+        <headword number="977" name="Angel"/>
+        <headword number="978" name="Satan"/>
+      </subsection>
+      <subsection number="2" name="Mythological and Other Fabulous Deities and Powers">
+        <headword number="979" name="Jupiter"/>
+        <headword number="980" name="Demon"/>
+        <headword number="981" name="Heaven"/>
+        <headword number="982" name="Hell"/>
+        <headword number="983" name="Theology"/>
+        <headword number="983a" name="Orthodoxy"/>
+        <headword number="984" name="Heterodoxy"/>
+        <headword number="985" name="Judeo-Christian Revelation"/>
+        <headword number="986" name="Pseudo-Revelation"/>
+      </subsection>
+      <subsection number="3" name="Religious Sentiments">
+        <headword number="987" name="Piety"/>
+        <headword number="988" name="Impiety"/>
+        <headword number="989" name="Irreligion"/>
+      </subsection>
+      <subsection number="4" name="Acts of Religion">
+        <headword number="990" name="Worship"/>
+        <headword number="991" name="Idolatry"/>
+        <headword number="992" name="Sorcery"/>
+        <headword number="993" name="Spell"/>
+        <headword number="994" name="Sorcerer"/>
+      </subsection>
+      <subsection number="5" name="Religious Institutions">
+        <headword number="995" name="Churchdom"/>
+        <headword number="996" name="Clergy"/>
+        <headword number="997" name="Laity"/>
+        <headword number="998" name="Rite"/>
+        <headword number="999" name="Canonicals"/>
+        <headword number="1000" name="Temple"/>
+      </subsection>
+    </section>
+  </class>
+</RogetHierarchy>
