@@ -1,0 +1,4 @@
+*.words filter=lfs diff=lfs merge=lfs -text
+*.model filter=lfs diff=lfs merge=lfs -text
+hist/dalinm.hunpos filter=lfs diff=lfs merge=lfs -text
+hist/swedberg-gender.hunpos filter=lfs diff=lfs merge=lfs -text
