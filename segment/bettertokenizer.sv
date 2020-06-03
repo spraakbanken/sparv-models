@@ -3,9 +3,6 @@
 # Set whether the tokenizer should be case sensitive or not (true/false)
 case_sensitive:	false
 
-# Relative or absolute path to an optional file with a list of tokens, one per row, for tokens not handled by the rules below
-token_list:	./bettertokenizer.sv.saldo-tokens
-
 # Characters that cannot start word tokens (no regex escaping needed)
 start:	({[]})"“”'‘’`»;:–—\/&#*@-,…|_¨
 
