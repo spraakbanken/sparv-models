@@ -2,15 +2,15 @@
 
 ## bettertokenizer.sv
 
-Configuration file for BetterWordTokenizer (sparv.modules.segment.segment)
+Configuration file for BetterWordTokenizer (`sparv.modules.segment.segment`)
 
 
 # Sentence segmentation
 
 ## punkt-nltk-svenska.pickle
 
-Parameters-model for NLTK Punkt
+Parameters model for NLTK Punkt
 
 - Format: Python-pickled
 - Trained on: Storsuc by NLTK Punkt
-- Trained with: Sparv (sparv.modules.segment.segment.train_punkt_segmenter)
+- Trained with: `sparv.modules.segment.segment.train_punkt_segmenter`
