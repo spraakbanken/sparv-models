@@ -38,3 +38,17 @@ cat ../suc2/original/rådata/SUC2.0/WORDLISTS/tagged/freqtextw.txt
 
 > suc.cstlemma.lemmas
 ```
+
+## saldo.cstlemma.lemmas
+
+SALDO, in format that fits training of CST-lemmatizer
+
+- Format: tab-separated
+- Encoding: Latin1
+- Created with: sparv.modules.saldo.saldo_model, from saldom.xml
+
+```
+import sparv.modules.saldo.saldo_model as saldo
+lex = saldo.read_xml("saldom.xml", "gf")
+saldo.save_to_cstlemmatizer("saldo.cstlemma.lemmas", lex)
+```

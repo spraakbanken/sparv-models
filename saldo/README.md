@@ -28,9 +28,10 @@ NST compound model:probabilities of compound parts of speech
 - Encoding: UTF8
 - Created with: sparv.modules.saldo.nst_comp_model
 
-    import sparv.modules.saldo.nst_comp_model as train_nst
-    train_nst.make_model("nst_utf8.txt", "nst_comp_pos.pickle")
-
+```
+import sparv.modules.saldo.nst_comp_model as train_nst
+train_nst.make_model("nst_utf8.txt", "nst_comp_pos.pickle")
+```
 
 ## stats.pickle
 
@@ -50,23 +51,25 @@ SALDO, mapping from word form to base form (lemma)
 - Encoding: UTF8
 - Created with: sparv.modules.saldo.saldo_model, from saldom.xml
 
-    import sparv.modules.saldo.saldo_model as saldo
-    lex = saldo.read_lmf("saldom.xml", "gf")
-    saldo.SaldoLexicon.save_to_picklefile("saldo.baseform.pickle", lex)
-
+```
+import sparv.modules.saldo.saldo_model as saldo
+lex = saldo.read_lmf("saldom.xml", "gf")
+saldo.SaldoLexicon.save_to_picklefile("saldo.baseform.pickle", lex)
+```
 
 ## saldo.lemgram.pickle (removed)
 
 SALDO, mapping from word form to Saldo lemgram
 
-Format: Python pickle
-Encoding: UTF8
-Created with: sparv.modules.saldo.saldo_model, from saldom.xml
+- Format: Python pickle
+- Encoding: UTF8
+- Created with: sparv.modules.saldo.saldo_model, from saldom.xml
 
-    import sparv.modules.saldo.saldo_model as saldo
-    lex = saldo.read_lmf("saldom.xml", "lem")
-    saldo.SaldoLexicon.save_to_picklefile("saldo.lemgram.pickle", lex)
-
+```
+import sparv.modules.saldo.saldo_model as saldo
+lex = saldo.read_lmf("saldom.xml", "lem")
+saldo.SaldoLexicon.save_to_picklefile("saldo.lemgram.pickle", lex)
+```
 
 ##  saldo.saldoid.pickle (removed)
 
@@ -76,21 +79,8 @@ SALDO, mapping from word form to Saldo-ID
 - Encoding: UTF8
 - Created with: sparv.modules.saldo.saldo_model, from saldom.xml
 
-    import sparv.modules.saldo.saldo_model as saldo
-    lex = saldo.read_lmf("saldom.xml", "zlem")
-    saldo.SaldoLexicon.save_to_picklefile("saldo.lemgram.pickle", lex)
-
-
-## saldo.cstlemma.lemmas (removed)
-
-SALDO, in format that fits training of CST-lemmatizer
-
-- Format: tab-separated
-- Encoding: Latin1
-- Created with: sparv.modules.saldo.saldo_model, from saldom.xml
-
-    import sparv.modules.saldo.saldo_model as saldo
-    lex = saldo.read_xml("saldom.xml", "gf")
-    saldo.save_to_cstlemmatizer("saldo.cstlemma.lemmas", lex)
-
-For more info see cst/cstlemma.README
+```
+import sparv.modules.saldo.saldo_model as saldo
+lex = saldo.read_lmf("saldom.xml", "zlem")
+saldo.SaldoLexicon.save_to_picklefile("saldo.lemgram.pickle", lex)
+```

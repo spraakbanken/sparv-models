@@ -9,7 +9,7 @@ These files are used to create the hunpos morphtable file
 `hunpos.dalinm-swedberg.saldo.suc-tags.morphtable`
 with the module `sparv.modules.hunpos.morphtable_hist`.
 
-## hist/hunpos.dalinm-swedberg.saldo.suc-tags.morphtable
+## dalinm-swedberg_saldo_suc-tags.morphtable
 
 - Created by: Malin Ahlberg
 - Tags: SUC3
