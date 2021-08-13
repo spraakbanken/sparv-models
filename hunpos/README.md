@@ -8,6 +8,17 @@
 - Encoding: UTF8
 - Hunpos-settings: default
 
+## suc3_suc-tags_default-setting_utf8-mivoq.model
+
+Same as suc3_suc-tags_default-setting_utf8.model but compiled with [this hunpos version](https://github.com/mivoq/hunpos)
+which works on MacOS.
+
+- Trained by: Peter Ljunglöf
+- Trained on: SUC3
+- Tags: SUC3
+- Encoding: UTF8
+- Hunpos-settings: default
+
 
 # Hunpos-morphtables
 
