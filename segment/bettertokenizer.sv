@@ -13,7 +13,7 @@ within:	({[]})"“”'‘’»;–—\/*%…?!,|_¨
 end:	`:&#@,.|_¨
 
 # Multi-character punctuation (Python regular expression)
-multi:	(?:\-{2,}|\.{2,}|(?:\.\s){2,}\.)
+multi:	(?:\-{2,}|\.{2,}|(?:\. ){2,}\.)
 
 # Decimal numbers (Python regular expression)
 number:	\d+,\d+
